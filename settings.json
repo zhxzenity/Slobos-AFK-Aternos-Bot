@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Zenity-Bot",
+    "username": "Bot-Da-Galera",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "zenitycommunity.aternos.me",
-    "port": 53667,
+    "ip": "ServidorDaGaler-8JNS.aternos.me",
+    "port": 34183,
     "version": "",
     "try-creative": false
   },
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Sou um player normal confia!",
+        "Bot-AFK feito pelo Charles!",
         "I like to play Minecraft!"
       ]
     },
