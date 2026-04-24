@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Bot-Da-Galera",
+    "username": "Bot-Feito-Pelo-Shox",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ServidorDaGaler-8JNS.aternos.me",
-    "port": 34183,
+    "ip": "ZenityCommunityy.aternos.me",
+    "port": 27170,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Sou um player normal confia!",
-        "Bot-AFK feito pelo Charles!",
-        "I like to play Minecraft!"
+        "Sou um player normal Confia!",
+        "Bot-AFK feito pelo Gostoso do Zhx!",
+        "Eu Vou te eliminar! hahahahahaahah..."
       ]
     },
     "chat-log": true,
